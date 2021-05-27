@@ -1,0 +1,6 @@
+192.168.0.37,E8:6D:CB:0F:77:DA,Samsung Electronics,OS not Available,Type Unknown,
+192.168.0.26,C0:D2:DD:CB:5C:CD,Samsung Electronics,OS not Available,Type Unknown,
+192.168.0.35,CC:D3:C1:AB:10:1A,Vestel Elektronik San ve Tic. A..,Android 5.1,phone,
+192.168.0.13,C4:E9:84:3E:42:1C,Tp-link Technologies,Linux 2.6.23 - 2.6.38,general purpose,
+192.168.0.15,Mac Address not Available,Manufacturer not Available,Microsoft Windows 10 1809 - 1909,general purpose,
+192.168.0.22,D8:5B:2A:D6:24:35,Samsung Electronics,OS not Available,Type Unknown,

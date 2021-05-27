@@ -1,0 +1,4 @@
+192.168.0.1,18:35:D1:96:9E:E0,Arris Group,Ubee EVW3226 or Arris TG1672 or TG862G cable modem (Linux 2.6.18),WAP,Trusted Device
+192.168.0.36,6C:C7:EC:AB:4D:3A,Samsung Electro-mechanics(thailand),OS not Available,Type Unknown,Trusted Device
+192.168.0.19,10:08:B1:89:02:C5,Hon Hai Precision Ind.,Microsoft Windows 7 Professional or Windows 8,general purpose,Laptop
+192.168.0.17,9C:5C:F9:50:FA:05,Sony Mobile Communications,OS not Available,Type Unknown,Test Device
